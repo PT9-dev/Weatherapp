@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="button1_text">Get City ID</string>
+    <string name="button2_text">Weather by ID</string>
+    <string name="button3_text">Weather by Name</string>
+    <string name="enterCityHint">Enter ID or Name of Location</string>
+</resources>
